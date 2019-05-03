@@ -33,3 +33,9 @@
 
 # MacOS
 .DS_Store
+
+# IDEs
+.idea
+.vscode
+.subl
+.vim
